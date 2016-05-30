@@ -1,2 +1,1 @@
-# web_mod3_soln
-This is the assignment module 3 for HTML, CSS, and Javascript for Web Developers
+This is the Module 3 Coding Assignment for the Coursera course: HTML, CSS, and Javascript for Web Developers

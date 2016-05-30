@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    font-family: "Verdana", "sans-serif";
+}
+
+h1 {
+    font-size: 1.75em;
+	margin-top: 0px;
+}
+
+.navbar-toggle {
+	position: absolute;
+	right: 0px;
+}
+
+section {
+    background-color: #999999;
+    border: 1px solid #000000;
+    margin: 0 0 25px 0;
+    padding: 0;
+}
+
+section h3 {
+    font-size: 1.25em;
+}
+
+section p {
+    padding: 0 6px 4px 6px;
+}
